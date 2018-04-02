@@ -3,8 +3,8 @@ layout: lab
 num: lab01
 ready: false
 desc: "CSIL Logistics and Binary Representation"
-assigned: 2018-01-16 08:00:00.00-7
-due: 2018-01-19 23:59:59.00-7
+assigned: 2018-04-09 08:00:00.00-7
+due: 2018-04-13 23:59:59.00-7
 ---
 <h1>Lab 1: Logistics and Binary Representation</h1>
 <hr>
