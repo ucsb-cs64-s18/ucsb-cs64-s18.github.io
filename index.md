@@ -29,6 +29,7 @@ title: CS64, Winter 2018, zmatni
 
 <div data-role="collapsible" data-collapsed="false">
 <h2 id="labs">Labs:</h2>
+<p>NOTE: All labs must be submitted using turnin, unless specified otherwise.</p>
 {% include lab_table.html %}
 </div>
 
