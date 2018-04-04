@@ -1,5 +1,5 @@
 ---
-title: "Demo Code used in Lecture, CMPSC 64, Spring 2018"
+title: "2.Demo Code used in Lecture, CMPSC 64, Spring 2018"
 layout: handout
 ready: true
 ---

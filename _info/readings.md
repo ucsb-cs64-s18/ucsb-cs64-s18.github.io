@@ -1,5 +1,5 @@
 ---
-title: "Class Readings"
+title: "4.Class Readings"
 layout: handout
 ready: true
 ---

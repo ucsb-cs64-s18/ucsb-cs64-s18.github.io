@@ -1,5 +1,5 @@
 ---
-title: "MIPS Reference Card PDF"
+title: "5.MIPS Reference Card PDF"
 layout: handout
 ready: true
 pdfurl: /info/MIPS_reference_card.pdf

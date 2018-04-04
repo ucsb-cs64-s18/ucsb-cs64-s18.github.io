@@ -1,5 +1,5 @@
 ---
-title: "Class Grades, CMPSC 64, Spring 2018"
+title: "3.Class Grades, CMPSC 64, Spring 2018"
 layout: handout
 ready: true
 ---
