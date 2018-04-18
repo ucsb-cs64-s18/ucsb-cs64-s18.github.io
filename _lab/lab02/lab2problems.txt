@@ -22,23 +22,23 @@ The following questions concern the results of an adder that operates
 over single bits, including a carry bit.  Give the results for the addition,
 along with the carry bit, separated by a semicolon.  For example:
 
-1.) What is 1 + 1 without a carry set?
+1.) What is 1 + 1 without a carry bit?
 1.answer)
 0;1
 
-2.) What is 0 + 0 without a carry set?
+2.) What is 0 + 0 without a carry bit?
 2.answer)
 0;0
 
-3.) What is 1 + 1 with a carry set?
+3.) What is 1 + 1 with a carry bit?
 3.answer)
 
 
-4.) What is 1 + 0 with a carry set?
+4.) What is 1 + 0 with a carry bit?
 4.answer)
 
 
-5.) What is 0 + 0 with a carry set?
+5.) What is 0 + 0 with a carry bit?
 5.answer)
 
 
