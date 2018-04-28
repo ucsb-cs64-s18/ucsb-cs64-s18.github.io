@@ -40,8 +40,8 @@ due: 2018-05-04 23:59:59.00-7
 </p>
 
 <ul>
-  <li>Task 1: Basic Memory Operations</a></li>
-  <li>Task 2: Swapping Array Contents</a></li>
+  <li>Task 1: Basic Memory Operations</li>
+  <li>Task 2: Swapping Array Contents</li>
 </ul>
 
 <p>
