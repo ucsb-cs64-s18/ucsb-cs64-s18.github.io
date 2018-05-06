@@ -1,7 +1,7 @@
 ---
 layout: lab
 num: lab05
-ready: false
+ready: true
 desc: "MIPS Calling Convention"
 assigned: 2018-05-07 08:00:00.00-7
 due: 2018-05-11 23:59:59.00-7
