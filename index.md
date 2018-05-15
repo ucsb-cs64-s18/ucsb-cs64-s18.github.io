@@ -1,5 +1,5 @@
 ---
-title: CS64, Winter 2018, zmatni
+title: CS64, Spring 2018, zmatni
 ---
 
 # {{site.course}}, {{site.quarter}}
