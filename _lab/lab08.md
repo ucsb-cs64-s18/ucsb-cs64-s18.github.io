@@ -540,7 +540,7 @@ This should be fairly mechanical in nature.
   </li>
 </ol>
 
-<h2>Turn in Everything Using <code>turnin</code>, or the CS64 Homework Box</h2>
+<h2>Turn in Everything Using <code>turnin</code></h2>
 <p>
   <b>If you partnered with someone, record the email address they are using for the class in <code>partner.txt</code>.</b>
   For example, if your partner had the email address <a href="foo@bar.com">foo@bar.com</a>, then the contents of <code>partner.txt</code> should be the following (and <b>only</b> the following):
